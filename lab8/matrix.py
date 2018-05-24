@@ -1,4 +1,4 @@
-from random import seed as seed, randint as randint
+from random import seed, randint
 
 class Matrix:
     def __init__(self, rows, columns=None, elements=None):
